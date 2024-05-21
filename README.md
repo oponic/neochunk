@@ -8,3 +8,4 @@ I'm planning to fork this when enough progress has been made and implement it wi
 # How do I try it?
 Make sure you're running a Unix (BSD, macOS), Unix-like (Linux), or similar OS.
 Executable files can be found in Releases.
+# Delayed until 2025
